@@ -44,26 +44,7 @@ Przewidziane jest grupowe zamawianie jedzenia minimum dwa razy w ciągu LAN Part
 ### 5. Procedura zamawiania jedzenia:
 Korzystamy z [Wolt](https://wolt.com/en/delivers-to-me) i/lub [Uber Eats](https://www.ubereats.com) i/lub [PizzaPortal](https://pizzaportal.pl/) i/lub [Pyszne.pl](https://www.pyszne.pl/) i/lub [Domino's Pizza](https://www.dominospizza.pl/) aby przyśpieszyć proces zamawiania wybieramy miejsce z możliwie najlepszymi ocenami, najlepszą jakością i wielkością porcji. W przypadku pizzy zależnie od jej wielkości wybieramy jedną na 2-3 osoby. Zamówienie składamy przez internet, host płaci kartą z góry, przez internet, więc przy odbiorze nie jest potrzebna gotówka. W przypadku pizzy, dodatki do pizzy i/lub sama pizza jest wybierana w grupach 2-3 osobowych na które podzielą się uczestnicy lan party na bazie głosowania na dodatki.
 
-### 6. Charakter rozgrywek:
-
- 1. W pozycji [1] Paweł Troka vs reszta uczestników LAN Party, ewentualnie jeżeli rozgrywka będzie niezbalansowana to Paweł Troka + jedna dowolna osoba vs reszta uczestników. Również możemy spróbować rozgrywki w internecie z innymi graczami na Eurobattle.net (instrukcja łączenia się z Eurobattle.net oraz niezbędne pliki do Twojego Warcrafta tutaj: [http://eurobattle.net/content/](http://eurobattle.net/content/))
-
- 1. W pozycji [2] zarówno cała drużyna przeciwko AI (boty) jak i uczestnicy LAN Party rozdzieleni pomiędzy dwie drużyny przeciwko sobie tak aby rozgrywka była możliwie jak najbardziej zbalansowana. Mode: -APSO lub -APSOxx (gdzie xx to dowolny dodatek do modu APSO np. om – only mid,), w rozgrywce vs boty, mode: -apneng. Dodatkowym trybem rozgrywki jest też gra na serverze Eurobattle.net na botach STATS przeciwko innym graczom.
-
- 1. W pozycji [3] podobnie jak w pozycji [2], bez modów oczywiście
-
- 1. W pozycjach [5], [6] i [8], [9] analogicznie do pozycji [3]
-
- 1. W pozycji [7] gramy wszyscy w jednej drużynie (do 11 osób) na zasadzie PvE, jeżeli będzie nas za mało na zbalansowaną rozgrywkę, możliwa gra na Eurobattle.net z dodatkowymi innymi graczami w naszej drużynie, proszę zapoznać się z możliwymi postaciami i wybranie sobie jednej: fighter (damage dealer/dps), defender (tank), cleric (healer + mag), botanist (sadzi drzewka i kwiatki/krzewy – taki alchemik/herbist), kowal (tworzy broń, zbroje, ekwipunek), builder (buduje miasto, mury, wieże obronne).
-
- 1. pozycje [4], [6], [16], [17] rozgrywka typowa dla gier tego gatunku (fps).
-
- 1. w pozycje [12] gramy podobnie jak w pozycji [7] tylko bez wydzielonych klas postaci, czyli hero survival
-
- 1. w pozycjach [10] i [11] gramy każdy inna klasa w jednej drużynie na zasadzie PvE, rozgrywka charakterystyczna dla gatunku Online RPG.
-
-
-### 7. Wybór gier (kolejność grania itd.): 
+### 6. Wybór gier (kolejność grania itd.): 
 1. Należy zagrać przynajmniej raz w grę która otrzymała przynajmniej jeden głos główny
 1.	Kolejność gier jest determinowana na podstawie specjalnie przygotowanej procedury głosowania na pozycje, istnieje również możliwość zgłoszenia własnych pozycji wraz z proponowanym do zgłaszanej pozycji charakterem rozgrywki – zgłoszenie może być jednak odrzucone jeżeli sprzęt chociażby jednego z uczestników LAN Party nie będzie pozwalał na komfortowe granie w daną pozycję. Gramy w gry kolejno względem liczby otrzymanej sumy głosów (głównych i pochodnych, zdefiniowane w punkcie 7), najpierw jednak grając w tytuły które otrzymały przynajmniej jeden głos główny i maksymalną liczbę głosów w sumie (czyli otrzymanie największej liczby głosów nie gwarantuje, że tytuł będzie grany jako pierwszy – musi dodatkowo otrzymać minimum jeden głos główny). 
 1. Po każdej rozgrywce w daną pozycję odbywa się jawne, demokratyczne głosowanie które ma rozsądzić czy gramy w daną pozycję kolejny raz. Wyniki głosowań mogą być zmieniane poprzez procedury veta lub motywacji, jednak dopiero po drugiej rozgrywce w daną pozycję. 
@@ -72,31 +53,31 @@ Korzystamy z [Wolt](https://wolt.com/en/delivers-to-me) i/lub [Uber Eats](https:
 1. Około północy odbywa się tradycyjnie kilka (1-6 w zależności od chęci i zaangażowania graczy) rozgrywek gry "killer".
 1. Po zakończeniu listy gier gracze podejmują decyzję w jawnym demokratyczny głosowaniu czy powtarzają jakąś pozycję z listy, czy też spróbują innych gier.
 
-### 8. Procedura głosowania:
+### 7. Procedura głosowania:
 Każdy biorący udział w LAN Party zobowiązany jest do udziału w tajnym głosowaniu które odbędzie się na początku LAN Party. Należy oddać dwa głosy na pozycje gier w które będziemy grać, muszą one różnić się jednak typem (nie wolno głosować na dwa fps-y itp.) oraz nie można oddać dwóch głosów na tę samą pozycję. Masz do dyspozycji głos główny oraz głos poboczny, głos główny oznacza, że tę grę musimy zagrać przynajmniej raz, głos poboczny natomiast mówi jedynie, że chętnie zagrasz w tę grę. Organizator zastrzega sobie prawo przyznania jednej z gier "dzikiej karty". "Dzika karta" może być przyznana grze która otrzymała wyłącznie głosy (głos) poboczne i traktowana jest jako dodatkowy głos główny.
 
-### 9. Sprzęt i wyposażenie
+### 8. Sprzęt i wyposażenie
 Gracze zobowiązują się do przyniesienia działającego, w pełni sprawnego komputera PC, najlepiej przenośnego (laptopa/notebooka) z systemem operacyjnym Microsoft Windows 7 SP2 lub nowszym oraz kabla LAN o rozsądnej długości (3 metry lub więcej). Silnym zaleceniem jest aby ten komputer miał zainstalowane wszystkie gry ze wstępnej listy gier w zdefiniowanych wersjach. Zabronione jest posiadanie na tym komputerze mechanizmów do oszukiwania w grach takich jak np. “map-hack”, “gold-hack”, “keys-macro”. Dozwolone jest natomiast posiadanie oprogramowania mapującego klawisze klawiatury jak np. WarKey++. W przypadku oszukiwania gracz przyłapany zostaje dożywotnio zbanowany i nie będzie mógł uczestniczyć w kolejnych eventach.
 
-### 10. Przerwy
+### 9. Przerwy
 Na życzenie większości uczestników LAN Party w trakcie jego trwania mogą zostać zarządzone krótkie (około 15 minut) przerwy. Przerwa może być zarządzona tylko i wyłącznie po zakończonej rozgrywce i przed rozpoczęciem kolejnej rozgrywki. W trakcie przerwy wszyscy gracze są zobowiązani do wstrzymania uczestniczenia w rozgrywkach. Niektóre aktywności, które mogą być wykonywane w trakcie przerwy to: prowadzenie rozmowy, spożywanie posiłków, uczestniczenie jak i prowadzenia seminariów (patrz punkt kolejny), piłkarzyki (table football), stosowanie dozwolonych używek, wizyty w toalecie.
 
-### 11. Seminaria
+### 10. Seminaria
 W trakcie trwania LAN Party mogą mieć miejsce niezobowiązujące seminaria o charakterze ogólno-naukowym. Osoby prezentujące winne są zgłosić ze swoim tematem do akceptacji najpóźniej na 12h przed rozpoczęciem LAN Party. Tematy muszą być zaakceptowane przez hosta i nie mogą promować pseudonauki, szerzyć dezinformacji lub propagować inne nieprawdziwe informacje. Uczestnictwo w seminariach jest dobrowolne jak i prezentowanie, muszą się one jednak odbywać w trakcie spożywania jedzenia lub innej zarządzonej przerwy.
 
-### 12. Alkohol i inne używki
+### 11. Alkohol i inne używki
 W trakcie trwania LAN Party obowiązuje całkowity zakaz spożywania alkoholu i innych używek zmniejszających refleks i powodujących uczucie zmęczenia. Zapis ten istnieje po to aby gracze przez cały okres trwania LAN Party byli w stanie grać na mniej-więcej tym samym (wysokim) poziomie. Dozwolone są natomiast używki pobudzające, zmniejszające czas reakcji, takie jak np. kofeina czy snus.
 
-### 13. Uczucia religijne, rasizm, ksenofobia i inne
+### 12. Uczucia religijne, rasizm, ksenofobia i inne
 Gracze zrzekają się z prawa do korzystania z Art. 196, Art. 256, Art. 257 KK rozumiejąc, że wszelkie obelgi i wyzwiska padające w czasie trwania LAN Party mają charakter jedynie żartobliwy. Rasizm, ksenofobia, szowinizm, seksizm, transfobia, homofobia, heterofobia, ageizm, adultyzm, antysemityzm, chrystianofobia i islamofobia są dopuszczalne w trakcie trwania LAN Party, pod warunkiem, że mają charakter jedynie żartobliwy i nie są nacechowane szczególną nienawiścią.
 
-### 14. Rozwiązywanie konfliktów
+### 13. Rozwiązywanie konfliktów
 Wszelkie konflikty, których nie opisuje regulamin, winny być rozwiązywane na drodze jawnego, równego, bezpośredniego, powszechnego, demokratycznego głosowania uczestników LAN Party. W szczególnych przypadkach, np. gdy w wyniku głosowania remisują dwie opcje, ostateczną decyzję podejmują osoby, które nie wybrały veta ani motywacji (osoby, które “”wybrały” tzw. “szacunek”), w przypadku, gdy brak takich osób lub w wyniku ich głosowania również doszło do remisu rozstrzyga mechanizm losowy lub pseudolosowy z lekkim wskazaniem na serwis [random.org](https://www.random.org/).
 
-### 15. Co zrobić ze swoją dziewczyną?
+### 14. Co zrobić ze swoją dziewczyną?
 Możesz przyprowadzić ją do nas a Athena zabierze wszystkie dziewczyny na nieco inną imprezę „Girls Night out” 
 
-### 16. Limit ilości uczestników
+### 15. Limit ilości uczestników
 Bazowy limit wynosi 10 osób z racji dużej dostępności gier z taką zadeklarowaną maksymalną ilością graczy.
 Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzona lista "rezerwowa".
 
@@ -114,7 +95,7 @@ Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzo
     - Additional Gamers
         - mogą rozpocząć rozgrywkę w dowolną grę z obowiązującej listy gier z zaznaczeniem, że ich rozgrywka powinna być nie dłuższa niż sesja w której uczestniczą Core Gamers
 
-### 17. Pytania?
+### 16. Pytania?
 Prosimy je zadawać na facebooku na stronie eventu.
 
 Zgadzam się z powyższym regulaminem LAN Party i zobowiązuje się go bezwzględnie przestrzegać.
