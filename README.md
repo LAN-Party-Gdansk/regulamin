@@ -101,3 +101,6 @@ Prosimy je zadawać na facebooku na stronie eventu.
 Zgadzam się z powyższym regulaminem LAN Party i zobowiązuje się go bezwzględnie przestrzegać.
 
 (czytelnie imię i nazwisko)
+
+### 17. Zmiany regulaminu
+Każda zmiana w regulaminie musi być potwierdzona na Githubie przez przynajmniej 3 osoby. Zmiany, które zostały wprowadzone na mniej niż 24 godziny przed rozpoczęciem eventu, nie obowiązują na nim (dopiero w kolejnej edycji).
