@@ -41,7 +41,7 @@ Do listy mogą być oczywiście dopisane kolejne gry (np. z tej listy [hiveworks
 ### 4. Wyżywienie:
 Przewidziane jest grupowe zamawianie jedzenia minimum dwa razy w ciągu LAN Party oraz napoje energetyczne w ilości 1L na osobę, poza tym można korzystać z ogólnie dostępnego, nieograniczonego zasobu wody niegazowanej. Mile widziane jest też przyniesienie własnego prowiantu.
 
-Podczas spożywania jedzenia wskazane jest grupowe oglądanie filmów porno. Osoby zgorszone lub na odwyku mogą odmówić udziału w seansie. 
+Podczas spożywania jedzenia wskazane jest grupowe oglądanie filmów porno. Osoby zgorszone lub na odwyku mogą odmówić udziału w seansie i zamiast oglądać z kolegami dobre porno zobowiązani są za kare słuchać Maryli Rodowicz. 
 
 ### 5. Procedura zamawiania jedzenia:
 Korzystamy z [Wolt](https://wolt.com/en/delivers-to-me) i/lub [Uber Eats](https://www.ubereats.com) i/lub [PizzaPortal](https://pizzaportal.pl/) i/lub [Pyszne.pl](https://www.pyszne.pl/) i/lub [Domino's Pizza](https://www.dominospizza.pl/) aby przyśpieszyć proces zamawiania wybieramy miejsce z możliwie najlepszymi ocenami, najlepszą jakością i wielkością porcji. W przypadku pizzy zależnie od jej wielkości wybieramy jedną na 2-3 osoby. Zamówienie składamy przez internet, host płaci kartą z góry, przez internet, więc przy odbiorze nie jest potrzebna gotówka. W przypadku pizzy, dodatki do pizzy i/lub sama pizza jest wybierana w grupach 2-3 osobowych na które podzielą się uczestnicy lan party na bazie głosowania na dodatki.
