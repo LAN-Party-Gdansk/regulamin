@@ -54,10 +54,10 @@ Korzystamy z [Wolt](https://wolt.com/en/delivers-to-me) i/lub [Uber Eats](https:
 1. Po zakończeniu listy gier gracze podejmują decyzję w jawnym demokratyczny głosowaniu czy powtarzają jakąś pozycję z listy, czy też spróbują innych gier.
 
 ### 7. Procedura głosowania:
-Każdy biorący udział w LAN Party zobowiązany jest do udziału w tajnym głosowaniu które odbędzie się na początku LAN Party. Należy oddać dwa głosy na pozycje gier w które będziemy grać, muszą one różnić się jednak typem (nie wolno głosować na dwa fps-y itp.) oraz nie można oddać dwóch głosów na tę samą pozycję. Masz do dyspozycji głos główny oraz głos poboczny, głos główny oznacza, że tę grę musimy zagrać przynajmniej raz, głos poboczny natomiast mówi jedynie, że chętnie zagrasz w tę grę. Organizator zastrzega sobie prawo przyznania jednej z gier "dzikiej karty". "Dzika karta" może być przyznana grze która otrzymała wyłącznie głosy (głos) poboczne i traktowana jest jako dodatkowy głos główny.
+Każdy biorący udział w LAN Party zobowiązany jest do udziału w tajnym głosowaniu które odbędzie się na początku LAN Party. Należy oddać dwa głosy na pozycje gier w które będziemy grać, muszą one różnić się jednak typem (nie wolno głosować na dwa fps-y itp.) oraz nie można oddać dwóch głosów na tę samą pozycję. Masz do dyspozycji głos główny oraz głos poboczny, głos główny oznacza, że tę grę musimy zagrać przynajmniej raz, głos poboczny natomiast mówi jedynie, że chętnie zagrasz w tę grę.
 
 ### 8. Sprzęt i wyposażenie
-Gracze zobowiązują się do przyniesienia działającego, w pełni sprawnego komputera PC, najlepiej przenośnego (laptopa/notebooka) z systemem operacyjnym Microsoft Windows 7 SP2 lub nowszym oraz kabla LAN o rozsądnej długości (3 metry lub więcej). Silnym zaleceniem jest aby ten komputer miał zainstalowane wszystkie gry ze wstępnej listy gier w zdefiniowanych wersjach. Zabronione jest posiadanie na tym komputerze mechanizmów do oszukiwania w grach takich jak np. “map-hack”, “gold-hack”, “keys-macro”. Dozwolone jest natomiast posiadanie oprogramowania mapującego klawisze klawiatury jak np. WarKey++. W przypadku oszukiwania gracz przyłapany zostaje dożywotnio zbanowany i nie będzie mógł uczestniczyć w kolejnych eventach.
+Gracze zobowiązują się do przyniesienia działającego, w pełni sprawnego komputera PC, najlepiej przenośnego (laptopa/notebooka) z systemem operacyjnym Microsoft Windows. Silnym zaleceniem jest aby ten komputer miał zainstalowane wszystkie gry ze wstępnej listy gier w zdefiniowanych wersjach. Zabronione jest posiadanie na tym komputerze mechanizmów do oszukiwania w grach takich jak np. “map-hack”, “gold-hack”, “keys-macro”. Dozwolone jest natomiast posiadanie oprogramowania mapującego klawisze klawiatury jak np. WarKey++. W przypadku oszukiwania gracz przyłapany zostaje dożywotnio zbanowany i nie będzie mógł uczestniczyć w kolejnych eventach.
 
 ### 9. Przerwy
 Na życzenie większości uczestników LAN Party w trakcie jego trwania mogą zostać zarządzone krótkie (około 15 minut) przerwy. Przerwa może być zarządzona tylko i wyłącznie po zakończonej rozgrywce i przed rozpoczęciem kolejnej rozgrywki. W trakcie przerwy wszyscy gracze są zobowiązani do wstrzymania uczestniczenia w rozgrywkach. Niektóre aktywności, które mogą być wykonywane w trakcie przerwy to: prowadzenie rozmowy, spożywanie posiłków, uczestniczenie jak i prowadzenia seminariów (patrz punkt kolejny), piłkarzyki (table football), stosowanie dozwolonych używek, wizyty w toalecie.
@@ -79,7 +79,7 @@ Możesz przyprowadzić ją do nas a Athena zabierze wszystkie dziewczyny na niec
 
 ### 15. Limit ilości uczestników
 Bazowy limit wynosi 10 osób z racji dużej dostępności gier z taką zadeklarowaną maksymalną ilością graczy.
-Jeżeli jednak ilość osób chętnych będzie większa niż 11 zostanie utworzona lista "rezerwowa".
+Jeżeli jednak ilość osób chętnych będzie większa niż 10 zostanie utworzona lista "rezerwowa".
 
   Rozgrywka z wykorzystaniem opcji listy "rezerwowej" odbywa się z uwzględnieniem dodatkowych zasad:
     - Jeżeli gra umożliwia taką opcję, wszystkie osoby uczestniczą w rozgrywce
