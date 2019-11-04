@@ -21,6 +21,7 @@ planowany termin to 09.11.2019 (sobota a następnie noc z soboty na niedzielę)
 |5   | Terrania                              | 11                      | v1.12 http://terrania.freeforums.org            |
 |6   | Heroes of the Storm                   | 10                      |                                                 |
 |7   | Resident Evil Snow                    | 8                       | v3.9 https://www.epicwar.com/maps/271851/       |
+|8   | Counter-Strike: Global Offensive      | 32                      |                                                 |
 
 Do listy mogą być oczywiście dopisane kolejne gry (np. z tej listy [hiveworkshop.com/forums/maps.php?mmr=6](http://www.hiveworkshop.com/forums/maps.php?mmr=6)) - propozycję prosimy umieszczać na stronie eventu. Istnieje jednak limit zgłaszania pozycji - jedna pozycja na uczestnika. Termin składania propozycji to 18:00 dnia poprzedzającego dzień lan party. Po tej dacie nastąpi zamknięcie listy gier. Zalecane jest żeby gry wspierały grę przez LAN, oraz nie miały wymogów rejestracji. (Termin ten związany jest z czasem potrzebnym na instalację i konfigurację gier na wszystkich stanowiskach). Zależnie od ostatecznej liczby graczy, niektóre pozycje mogą być wykreślone z listy gier w przypadku, gdy liczba graczy przekracza maksimum dla danej gry (patrz parametr “max X graczy”).
 
