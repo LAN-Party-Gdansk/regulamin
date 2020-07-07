@@ -1,9 +1,9 @@
-Regulamin LAN Party Fall 2019
+Regulamin LAN Party SexySummer 2020
 
-LAN Party z okazji przyjazdu Karol Och-Karol z Krakowa i z okazji pięknej jesieni 2019!
+LAN Party z okazji przyjazdu Karol Och-Karol z Krakowa i z okazji pięknego lata 2020!
 
 ### 0. Dzień:
-planowany termin to 09.11.2019 (sobota a następnie noc z soboty na niedzielę)
+planowany termin to 01.08.2020 (sobota a następnie noc z soboty na niedzielę)
 
 ### 1. Godzina:
 13:00 - ostateczny termin rozpoczęcia głosowania
