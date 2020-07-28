@@ -77,10 +77,7 @@ Gracze zrzekają się z prawa do korzystania z Art. 196, Art. 256, Art. 257 KK r
 ### 13. Rozwiązywanie konfliktów
 Wszelkie konflikty, których nie opisuje regulamin, winny być rozwiązywane na drodze jawnego, równego, bezpośredniego, powszechnego, demokratycznego głosowania uczestników LAN Party. W szczególnych przypadkach, np. gdy w wyniku głosowania remisują dwie opcje, ostateczną decyzję podejmują osoby, które nie wybrały veta ani motywacji (osoby, które “”wybrały” tzw. “szacunek”), w przypadku, gdy brak takich osób lub w wyniku ich głosowania również doszło do remisu rozstrzyga mechanizm losowy lub pseudolosowy z lekkim wskazaniem na serwis [random.org](https://www.random.org/).
 
-### 14. Co zrobić ze swoją dziewczyną?
-Możesz przyprowadzić ją do nas a Athena zabierze wszystkie dziewczyny na nieco inną imprezę „Girls Night out” 
-
-### 15. Limit ilości uczestników
+### 14. Limit ilości uczestników
 Bazowy limit wynosi 10 osób z racji dużej dostępności gier z taką zadeklarowaną maksymalną ilością graczy.
 Jeżeli jednak ilość osób chętnych będzie większa niż 10 zostanie utworzona lista "rezerwowa".
 
@@ -98,12 +95,12 @@ Jeżeli jednak ilość osób chętnych będzie większa niż 10 zostanie utworzo
     - Additional Gamers
         - mogą rozpocząć rozgrywkę w dowolną grę z obowiązującej listy gier z zaznaczeniem, że ich rozgrywka powinna być nie dłuższa niż sesja w której uczestniczą Core Gamers
 
-### 16. Pytania?
+### 15. Pytania?
 Prosimy je zadawać na facebooku na stronie eventu.
 
 Zgadzam się z powyższym regulaminem LAN Party i zobowiązuje się go bezwzględnie przestrzegać.
 
 (czytelnie imię i nazwisko)
 
-### 17. Zmiany regulaminu
+### 16. Zmiany regulaminu
 Każda zmiana w regulaminie musi być potwierdzona na Githubie przez przynajmniej 3 osoby. Zmiany, które zostały wprowadzone na mniej niż 24 godziny przed rozpoczęciem eventu, nie obowiązują na nim (dopiero w kolejnej edycji).
