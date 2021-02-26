@@ -1,4 +1,4 @@
-Regulamin LAN Party SadSpring 2021
+Regulamin LAN Party Farewell to Wojciech 2021
 
 LAN Party z okazji odejścia Wojciecha Tokarczyka z Volue
 
