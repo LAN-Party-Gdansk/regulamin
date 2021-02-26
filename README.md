@@ -1,9 +1,9 @@
-Regulamin LAN Party SexySummer 2020
+Regulamin LAN Party SadSpring 2021
 
-LAN Party z okazji przyjazdu Karol Och-Karol z Krakowa i z okazji pięknego lata 2020!
+LAN Party z okazji odejścia Wojciecha Tokarczyka z Volue
 
 ### 0. Dzień:
-planowany termin to 01.08.2020 (sobota a następnie noc z soboty na niedzielę)
+planowany termin to 06.03.2021 (sobota a następnie noc z soboty na niedzielę)
 
 ### 1. Godzina:
 13:00 - ostateczny termin rozpoczęcia głosowania
@@ -53,6 +53,7 @@ Korzystamy z [Wolt](https://wolt.com/en/delivers-to-me) i/lub [Uber Eats](https:
 1. Po każdej rozgrywce w daną pozycję odbywa się jawne, demokratyczne głosowanie które ma rozsądzić czy gramy w daną pozycję kolejny raz. Wyniki głosowań mogą być zmieniane poprzez procedury veta lub motywacji, jednak dopiero po drugiej rozgrywce w daną pozycję. 
 1. Zasada bezwzględnego veta technicznego - jeżeli dana gra nie zostanie uruchomiona u jednego lub więcej uczestników (z powodów technicznych), bądź też po uruchomieniu występują z nią problemy techniczne uniemożliwiające komfortowe prowadzenie rozgrywki, które nie zostaną rozwiązane w przeciągu 30 minut, to gra zostaje przerwana i przechodzimy do kolejnej pozycji na liście.
 1. Zasada veta i motywacji. Każdy uczestnik Lan Party musi przed rozpoczęciem procedury głosowania wybrać jedną z dwóch „możliwości” – jest to veto lub motywacja. Zasada veta umożliwia graczowi „zavetowania” rozgrywki w daną pozycję i przejście dalej z listą gier, jeżeli w grę zostały zagrane minimum dwie rozgrywki. Gracz który wybrał veto ma tylko jedną możliwość veta na całe LAN Party, tak samo z motywacją. Istnieje możliwość nie wybrania veta lub motywacji, skorzystanie z tej możliwości zapewnia danemu uczestnikowi dodatkowy szacunek innych graczy. Jedna pozycja może dostać maksymalnie jedno veto (co jest zrozumiałe bo z natury veta kończy rozgrywkę) i maksymalnie jedną motywację (po “zmotywowanej” rozgrywce odbywa się normalne głosowanie “czy chcemy grać jeszcze raz w tę grę” i dalsza procedura jest kontynuowana z wyłączenie możliwości użycia kolejnej motywacji.
+1. Veto i motywacja mogą zostać odrzucone przez minimum 2/3 obecnych uprawnionych do głosowania (patrz *incydent Wrońskiego*)
 1. Około północy odbywa się tradycyjnie kilka (1-6 w zależności od chęci i zaangażowania graczy) rozgrywek gry "killer".
 1. Po zakończeniu listy gier gracze podejmują decyzję w jawnym demokratyczny głosowaniu czy powtarzają jakąś pozycję z listy, czy też spróbują innych gier.
 
