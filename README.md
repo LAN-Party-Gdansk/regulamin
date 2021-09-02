@@ -1,13 +1,13 @@
-Regulamin LAN Party Farewell to Wojciech 2021
+Regulamin LAN Party Summer 2021
 
 LAN Party z okazji odejścia Wojciecha Tokarczyka z Volue
 
 ### 0. Dzień:
-planowany termin to 06.03.2021 (sobota a następnie noc z soboty na niedzielę)
+planowany termin to 25.09.2021 (sobota a następnie noc z soboty na niedzielę)
 
 ### 1. Godzina:
-13:00 - ostateczny termin rozpoczęcia głosowania
-13:30 - ostateczny termin startu rozgrywek
+14:00 - ostateczny termin rozpoczęcia głosowania
+14:30 - ostateczny termin startu rozgrywek
 
 ### 2. Wstępna lista gier:
 
